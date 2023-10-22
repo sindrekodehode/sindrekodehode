@@ -11,3 +11,4 @@ const Sindre = [
   "abilities": ["HTML", "Css", "Js", "React"],
   "hobbies": ["RPG", "Diving", "Coding", "Learning"]
 }]
+```
