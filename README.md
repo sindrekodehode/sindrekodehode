@@ -8,7 +8,7 @@ Jeg er lidenskapelig opptatt av ting som ikke er av denne verden, som fantasiğŸ
 
 NÃ¥ jobber jeg med en "old school" dungeon crawler i React med bilder laget med Midjourney.
 
-<img align='right' src="https://images.unsplash.com/photo-1549056572-75914d5d5fd4?auto=format&fit=crop&q=80&w=1964&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="230">
+<img align='right' src="tritoc_fantasy_artwork.png" width="240" height="270">
 
 <hr>
 
