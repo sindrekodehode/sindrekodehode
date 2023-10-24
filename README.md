@@ -10,7 +10,7 @@ Jeg er lidenskapelig opptatt av ting som ikke er av denne verden, som fantasi�
 
 <img align='right' src="tritoc_fantasy_artwork.png" width="240" height="280"></img>
 <hr>
-<p>🦀Litt om meg:</p>
+🦀<p>Litt om meg:</p>
 
 ```javascript
 const Sindre = {
