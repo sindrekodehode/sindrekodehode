@@ -8,10 +8,9 @@ Jeg er lidenskapelig opptatt av ting som ikke er av denne verden, som fantasi�
 <hr>
 <h4>For øyeblikket jobber jeg med en "old school" <a href="https://github.com/sindrekodehode/RPGproject">dungeon crawler</a> i React med bilder laget med Midjourney.</h4>
 
-<img align='right' src="tritoc_fantasy_artwork.png" width="240" height="265"></img>
+<img align='right' src="tritoc_fantasy_artwork.png" width="250" height="305"></img>
 <hr>
-🦀
-<p>Litt om meg:</p>
+<p>🦀Litt om meg:</p>
 
 ```javascript
 const Sindre = {
