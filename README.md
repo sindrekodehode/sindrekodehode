@@ -7,7 +7,7 @@ Jeg har jobbet med og på datamaskiner siden 90-tallet, og jeg synes det er den 
 Jeg er lidenskapelig opptatt av ting som ikke er av denne verden, som fantasi🐉, bordrollespill🧙‍♂️ og science fiction👾. Jeg liker også noen ting i denne verden, som livet i havet🦀, historie⚔ og dinosaurer🦖.
 <hr>
 <img align='right' src="tritoc_fantasy_artwork.png" width="120" height="140">
-<h4>For øyeblikket jobber jeg med en "old school" <a href="https://github.com/sindrekodehode/RPGproject">dungeon crawler</a> i React med bilder laget med Midjourney.</h4> 
+<h4>For øyeblikket jobber jeg med en "old school" <span><a href="https://github.com/sindrekodehode/RPGproject">dungeon crawler</a></span> i React med bilder laget med Midjourney.</h4> 
 <hr>
 <p>Litt om meg:</p>
 
